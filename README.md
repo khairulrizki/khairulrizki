@@ -1,5 +1,6 @@
-I am Iki, and this is my profile 😀
+## Interested about me?
 
+I am Iki, and this is my profile 😀
 - 🔭 I’m B.Eng. in Electrical Engineering
 - 💬 Ask me about what u want to ask 😄
 
@@ -13,7 +14,5 @@ I am Iki, and this is my profile 😀
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khairulrizki&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-[![Top Langs of Me](https://github-readme-stats.vercel.app/api/top-langs/?username=khairulrizki&layout=compact)](https://github.com/khairulrizki)
 
 [![](https://komarev.com/ghpvc/?username=khairulrizki)](https://github.com/khairulrizki)
