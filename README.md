@@ -1,6 +1,7 @@
-![](githubbanner.png)
-## Glad to see you here! 
-I'm Khairul Rizki, graduate student from Faculty of Electrical Engineering, Telkom University and have a special interest in data science and machine learning, especially how to integrate machine learning with the industry area and using it within the business scope. I am a responsible person and have a high willingness to learn a new thing.
+I am Iki, and this is my profile 😀
+
+- 🔭 I’m B.Eng. in Electrical Engineering
+- 💬 Ask me about what u want to ask 😄
 
 
 <a href="https://www.linkedin.com/in/khairulrizki/" title="linkedin">
@@ -12,3 +13,7 @@ I'm Khairul Rizki, graduate student from Faculty of Electrical Engineering, Telk
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khairulrizki&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+[![Top Langs of Me](https://github-readme-stats.vercel.app/api/top-langs/?username=khairulrizki&layout=compact)](https://github.com/khairulrizki)
+
+[![](https://komarev.com/ghpvc/?username=khairulrizki)](https://github.com/khairulrizki)
